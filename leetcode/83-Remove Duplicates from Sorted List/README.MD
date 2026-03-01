@@ -1,6 +1,6 @@
 ## 🔗 Problema: Remove Duplicates from Sorted List
 
-### **Autor:** Henrique | **Revisado por:** Gemini
+### **Autor:** Henrique | **Revisado por:**
 
 Dada a raiz (`head`) de uma lista encadeada ordenada, remova todos os nós duplicados de forma que cada elemento apareça apenas uma vez. A lista resultante deve permanecer ordenada.
 
