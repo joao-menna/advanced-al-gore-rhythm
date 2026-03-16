@@ -1,6 +1,7 @@
 # Problema: Add Two Numbers
 
 Autor: **João Izidoro**
+
 Revisado por: **João Menna**
 
 Você é dado um *caminho absoluto* para um sistema de arquivos Unix, que sempre começa com `'/'`. Sua tarefa é transformar esse caminho absoluto em um **caminho canônico simplificado**.
@@ -42,7 +43,7 @@ Retorne o **caminho canônico simplificado**.
 
 ---
 
-# Terceiro:
+## Terceiro:
 
 **Entrada**: path = "/home/user/Documents/../Pictures"  
 
@@ -52,7 +53,7 @@ Retorne o **caminho canônico simplificado**.
 
 ---
 
-# Quarto:
+## Quarto:
 
 **Entrada**: path = "/../"  
 
@@ -62,7 +63,7 @@ Retorne o **caminho canônico simplificado**.
 
 ---
 
-# Quinto:
+## Quinto:
 
 **Entrada**: path = "/.../a/../b/c/../d/./"  
 

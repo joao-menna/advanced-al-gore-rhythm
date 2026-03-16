@@ -1,11 +1,12 @@
 # Problema: Maximum Subarray
 
 Autor: **Nicolas Borges**
-Revisado por:
+
+Revisado por: **João Menna**
 
 Dado um array de inteiros nums, encontre o subarray com a maior soma e retorne essa soma.
 
-#
+# Exemplo:
 
 ## Primeiro:
 

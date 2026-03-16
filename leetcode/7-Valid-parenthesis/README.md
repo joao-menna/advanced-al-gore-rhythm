@@ -1,7 +1,8 @@
 # Problema: Valid Parentheses
 
 Autor: **Nicolas Borges**
-Revisado por:
+
+Revisado por: **João Menna**
 
 Dada uma string s contendo apenas os caracteres '(', ')', '{', '}', '[' e ']', determine se a string de entrada é válida.
 

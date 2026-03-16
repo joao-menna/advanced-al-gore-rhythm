@@ -1,6 +1,7 @@
 # Problema: Longest Substring Without Repeating Characters
 
 Autor: **João Menna**
+
 Revisado por: **João Izidoro**
 
 Dada uma string `s`, encontre o comprimento da maior **substring** sem caracteres duplicados.

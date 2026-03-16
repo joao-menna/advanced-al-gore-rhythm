@@ -2,7 +2,7 @@
 
 Autor: **João Izidoro**.
 
-Revisado por:
+Revisado por: **João Menna**
 
 Dada a `head` de uma lista encadeada, remova o `nº` do final da lista e retorna a `head`.
 

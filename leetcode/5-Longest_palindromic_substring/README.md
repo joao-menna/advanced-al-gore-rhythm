@@ -1,6 +1,7 @@
 # Problema: Longest Palindromic Substring
 
 Autor: **João Menna**
+
 Revisado por: **João Izidoro**
 
 Dada uma string `s`, retorne a maior **substring palindrômica** encontrada em `s`.

@@ -1,6 +1,7 @@
 # Problema: Add Two Numbers
 
 Autor: **João Izidoro**
+
 Revisado por: **João Menna**
 
 São dadas duas listas encadeadas não vazias que representam dois números inteiros não negativos. Os dígitos são armazenados em ordem reversa, e cada um de seus nós contém um único dígito. Adicione os dois números e retorne a soma como uma lista encadeada.

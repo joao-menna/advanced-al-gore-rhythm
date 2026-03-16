@@ -1,6 +1,7 @@
 # Problema: Two Sum
 
 Autor: **João Menna**
+
 Revisado por: **João Izidoro**
 
 Dado um array de números inteiros `nums` e um número inteiro `target` (alvo), retorne os índices dos dois números de modo que a soma deles seja igual ao `target`.
