@@ -1,7 +1,8 @@
 # Problema: Min Stack
 
 Autor: **Nicolas Borges**
-Revisado por:
+
+Revisado por: **João Menna**
 
 Projete uma pilha que suporte push, pop, top e a recuperação do elemento mínimo em tempo constante.
 

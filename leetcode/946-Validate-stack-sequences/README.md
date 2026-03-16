@@ -2,7 +2,7 @@
 
 Autor: **Ricardo Fialho**.
 
-Revisado por:
+Revisado por: **João Menna**
 
 Dadas duas listas de inteiros `pushed` e `popped`, ambas contendo
 valores distintos, retorne `true` se este puder ter sido o resultado de
